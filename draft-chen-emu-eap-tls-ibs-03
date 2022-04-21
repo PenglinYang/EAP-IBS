@@ -98,8 +98,7 @@ Table of Contents
    can be used as part of an extended TLS handshake when raw public keys
    are used.  In the draft draft-ietf-emu-eap-tls13 reads certificates
 
-Chen, et al.              Expires May 19, 2022                  [Page 2]
-Internet-Draft                 EAP TLS IBS                 November 2021
+
 
    can be of any type supported by TLS including raw public keys.  In
    RFC7250[RFC7250] it assuming that an out-of-band mechanism is used to
